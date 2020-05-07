@@ -1,4 +1,4 @@
-#PaginaTable
+# PaginaTable
 
 Simple  React component paginator for tables.
 
