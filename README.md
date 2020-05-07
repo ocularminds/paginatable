@@ -1,6 +1,7 @@
 # PaginaTable
 
-Simple  React component paginator for tables.
+Simple  React component paginator for tables.<br>
+![Image ScreenShot](https://raw.githubusercontent.com/ocularminds/paginatable/master/package.json)
 
 ### `yarn start`
 
